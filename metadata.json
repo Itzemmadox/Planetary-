@@ -1,0 +1,6 @@
+{
+  "name": "Planetary Explorer",
+  "description": "An interactive web application exploring the data of our solar system's planets with a cinematic experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
