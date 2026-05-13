@@ -1,6 +1,8 @@
 {
-  "name": "Planetary Explorer",
-  "description": "An interactive web application exploring the data of our solar system's planets with a cinematic experience.",
+  "name": "Solar System Data Explorer",
+  "description": "A high-fidelity React application exploring planetary data with cinemetic visuals and a data-driven approach.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
