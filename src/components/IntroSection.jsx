@@ -34,7 +34,7 @@ export default function IntroSection() {
               className="w-full h-full object-cover opacity-90 transition-transform duration-700 group-hover:scale-105"
             >
               <source
-                src="https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-deep-space-34531-large.mp4"
+                src="https://www.pexels.com/download/video/36028182/"
                 type="video/mp4"
               />
             </video>
