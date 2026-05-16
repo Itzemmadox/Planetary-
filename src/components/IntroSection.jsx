@@ -28,7 +28,7 @@ export default function IntroSection() {
             </div>
 
             <div className="md:w-1/3 lg:w-full md:h-96 lg:h-auto md:flex lg:block items-center justify-center">
-              <div className="w-full md:h-64 lg:h-full relative group rounded-2xl overflow-hidden shadow-2xl bg-black aspect-video border-8 border-gray-100">
+              <div className="w-full h-[15rem] md:h-64 lg:h-full relative group rounded-2xl overflow-hidden shadow-2xl bg-black aspect-video border-8 border-gray-100">
                 {/* HTML5 Video as per requirement 4 */}
                 <video
                   autoPlay
@@ -45,7 +45,7 @@ export default function IntroSection() {
                 
                 {/* Overlay Play Icon Decoration */}
                 <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
-                  <div className="w-16 h-16 bg-white/20 backdrop-blur-md rounded-full flex items-center justify-center text-white border border-white/30 transform group-hover:scale-110 transition-all duration-500">
+                  <div className="w-16 h-16 flex items-center justify-center text-white transform group-hover:scale-110 transition-all duration-500">
                     <Play className="fill-current w-6 h-6 ml-1" />
                   </div>
                 </div>
